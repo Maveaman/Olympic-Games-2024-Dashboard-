@@ -47,6 +47,3 @@ This project is not just a sports analysis tool but a demonstration of how data 
 **Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/amansharma270) | [GitHub](https://github.com/Maveaman)
 
----
-
-Feel free to clone this project, give it a star ⭐, or suggest improvements! Happy exploring!
